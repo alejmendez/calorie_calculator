@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import { initLibs } from './libs'
 
-import './style.css'
+import './style/main.scss'
 
 import App from './App.vue'
 
